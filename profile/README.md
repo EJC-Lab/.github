@@ -1,4 +1,4 @@
-## Hi Welcome to  👋
+## Hi Welcome to EJC Lab 👋
 
 <!--
 
